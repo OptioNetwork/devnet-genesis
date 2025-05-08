@@ -1,7 +1,7 @@
 {
 	"environment": "devnet",
 	"moniker": "optio",
-	"chainId": "optio",
+	"chainId": "optio-devnet",
 	"symbol": "OPT",
 	"microDenom": "uOPT",
 	"decimals": 6

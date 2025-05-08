@@ -4,5 +4,5 @@
 	"chainId": "optio",
 	"symbol": "OPT",
 	"microDenom": "uOPT",
-	"decimals": 6,
+	"decimals": 6
 }

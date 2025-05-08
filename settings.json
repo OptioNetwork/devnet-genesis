@@ -1,0 +1,8 @@
+{
+	"environment": "devnet",
+	"moniker": "optio",
+	"chainId": "optio",
+	"symbol": "OPT",
+	"microDenom": "uOPT",
+	"decimals": 6,
+}

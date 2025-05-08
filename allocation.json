@@ -1,0 +1,10 @@
+{
+    "denom": "OPT",
+    "totalSupply": 7500000000, 
+    "accounts": [
+        { "name": "Validator 1", "address": "optio1jp3shyz0pdkfsh78gy03z0qjq9gwpyz74xptpy", "amount": 5000000, "stake": 4000000 },
+        { "name": "Validator 2", "address": "optio1mvkr582u2mj0c6v36znh7vcwqc77zhtsvpdgdd", "amount": 5000000, "stake": 4000000 },
+        { "name": "Distro Wallet", "address": "optio12hr7nqxkwz7gphkuwg53xrc2a9c5g7nl9z3un4", "amount": 90000000 },
+        { "name": "Genesis Cold Wallet", "address": "optio1uptv4al6s4vsq0ukx6vdcu3g49e7n0jlusupnu", "amount": 7400000000 },
+    ]
+}

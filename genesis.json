@@ -1,6 +1,6 @@
 {
-  "app_name": "\u003cappd\u003e",
-  "app_version": "",
+  "app_name": "optiod",
+  "app_version": "v1.0.0-devnet.1",
   "genesis_time": "2025-05-08T22:03:33.39874984Z",
   "chain_id": "optio-devnet",
   "initial_height": 1,
@@ -292,7 +292,7 @@
           }
         ],
         "expedited_threshold": "0.667000000000000000",
-        "expedited_voting_period": "86400s",
+        "expedited_voting_period": "3600s",
         "max_deposit_period": "172800s",
         "min_deposit": [
           {
@@ -307,7 +307,7 @@
         "quorum": "0.334000000000000000",
         "threshold": "0.500000000000000000",
         "veto_threshold": "0.334000000000000000",
-        "voting_period": "172800s"
+        "voting_period": "7200s"
       },
       "proposals": [],
       "starting_proposal_id": "1",
